@@ -1,6 +1,6 @@
 
 # QR Code Generator
-Link https://qrgeneratorm.netlify.app/
+
 
 QR (Quick Response) codes are capable of storing lots of data, and users can easily access the information by scanning the QR code.In my <strong>QR Code Generator app </strong>, users can enter a text or URL to generate a QR code for it. 
 It is a QR code generator app, not a QR code scanner.
